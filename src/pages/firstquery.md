@@ -8,13 +8,12 @@ In either case, you (or your audience) can hide or show queries using the button
 
 ```my_first_query
 
-select
-    101 as my_first_metric,
-    200 as my_second_metric
+select * from customer;
 
 ```
 
 {#if data.my_first_query[0] }
+<Value data={data.my_first_query} column="customer_id"/>
 
 ## Nice Job
 

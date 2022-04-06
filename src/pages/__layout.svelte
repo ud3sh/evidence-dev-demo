@@ -21,7 +21,8 @@
 	<Nav
 		sections={[
 			{ href: '/', label: 'Home' },
-			{ href: '/firstquery', label: 'Querying Data' }
+			{ href: '/firstquery', label: 'Querying Data' },
+			{ href: '/rental-history', label: 'Rental History' }
 		]}
 	/>
 </div>

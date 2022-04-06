@@ -20,3 +20,7 @@ Don't clone this repo, just download the code using the steps above.
 - [Getting Started Walkthrough](https://docs.evidence.dev/getting-started/get-started)
 - [Project Home Page](https://www.evidence.dev)
 - [Github](https://github.com/evidence-dev/evidence)
+
+
+## Feedback
+5 high severity vulnerabilities
