@@ -24,3 +24,6 @@ Don't clone this repo, just download the code using the steps above.
 
 ## Feedback
 5 high severity vulnerabilities
+SQL Lite
+Mix of copy code vs no code.
+Bug wih [customer_id]
